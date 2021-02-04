@@ -9,5 +9,5 @@ I like to solve problems through innovation and critical thinking and I am passi
 I am self-motivated and up for learning new things drop me a message on [LinkedIn](https://www.linkedin.com/in/kauser-jaffari/) if you're looking for a Junior Web Developer.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaffari12)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaffari12)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaffari12)](https://github.com/anuraghazra/github-readme-stats)
 

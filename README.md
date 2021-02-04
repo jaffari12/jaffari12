@@ -1,34 +1,11 @@
 ### Hello there I am Kauser -  A career changer  👋
 
+I'am currently Student at Bootcamp [WBS](https://www.wbscodingschool.com/) learning Full-Stack Web Development Course and will be graduating by 19 Feb 2021.
 
-## I'am Student at Bootcamp [https://www.wbscodingschool.com/] 
+A result and detail-oriented technology analyst with strong domain knowledge in semi-glamorous travel and airline industry. I have worked in areas of user functional testing, user interface and user experience towards the development, enhancement of Passenger Services Systems systems.  
 
-- :mortar_board: I will graduating from 15 Weeks Bootcamp on 19 Feb 2021.
-- 👯  I am looking for an entry position as Junior Web Developer
-- :book: Here is what I am learning :
-  Frontend:
-    Focus on : React js (Fundamentals, Hooks, Context)
-    React UI framework : material-UI
-    HTML5, CSS3
-    Vanilla Javascript (Fundamentals, DOM, OOP)
+I like to solve problems through innovation and critical thinking and I am passionate to create receptive, seamless web apps. As a project, test analyst, I have a track record of building solutions and I am looking for a new opportunity as Junior Web Developer.
 
-  Backend:
-    Node.js
-    Overview APIs (REST)
-    Database : MongoDB
-    Databases management (postgreSQL SQL)
-
-  Tools:
-    Console, Git and GitHub
-
-Best Practices:
-  UX/UI Fundamentals
-  Agile Methodologies (SCRUM)
-  SEO for developers
-  Project Management (Trello, etc)
-
-Contact me:
-
-I am self-motivated and up for learning new things drop me a message on [https://www.linkedin.com/in/kauser-jaffari/] if you're looking for a Junior Web Developer.
+I am self-motivated and up for learning new things drop me a message on [LinkedIn](https://www.linkedin.com/in/kauser-jaffari/) if you're looking for a Junior Web Developer.
 
 

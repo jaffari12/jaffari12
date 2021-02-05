@@ -1,6 +1,6 @@
 ### Hello there I am Kauser -  A career changer  👋
 
-I'am currently Student at Bootcamp [WBS](https://www.wbscodingschool.com/) learning Full-Stack Web Development Course and will be graduating by 19 Feb 2021.
+I'am currently Student at [WBS](https://www.wbscodingschool.com/) learning Full-Stack Web Development Course and will be graduating by 19 Feb 2021.
 
 A result and detail-oriented technology analyst with strong domain knowledge in semi-glamorous travel and airline industry. I have worked in areas of user functional testing, user interface and user experience towards the development, enhancement of Passenger Services Systems systems.  
 
